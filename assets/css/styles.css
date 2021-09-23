@@ -550,7 +550,7 @@ select::-ms-expand {
 }
 
 .header.-white .header__logo {
-  background: url(/assets/images/common/sub-header-logo.png) no-repeat center center/contain;
+  background: url(../images/common/sub-header-logo.png) no-repeat center center/contain;
 }
 
 .header__inner {
@@ -570,7 +570,7 @@ select::-ms-expand {
   width: 12.5rem;
   height: 40px;
   height: 2.5rem;
-  background: url(/assets/images/top/top-header-logo.png) no-repeat center center/contain;
+  background: url(../images/top/top-header-logo.png) no-repeat center center/contain;
 }
 
 @media screen and (max-width: 767px) {
