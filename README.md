@@ -1,2 +1,2 @@
 # ishii-kadan
-https://github.com/mai-2/ishii-kadan
+https://mai-2.github.io/ishii-kadan/
