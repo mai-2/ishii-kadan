@@ -1071,7 +1071,7 @@ select::-ms-expand {
 }
 
 .about {
-  background: url(/assets/images/common/bg-common.jpg);
+  background: url(../images/common/bg-common.jpg);
 }
 
 @media screen and (max-width: 1023px) {
@@ -1281,7 +1281,7 @@ select::-ms-expand {
 }
 
 .plan {
-  background: url(/assets/images/top/bg-top.jpg) no-repeat center center/cover;
+  background: url(../images/top/bg-top.jpg) no-repeat center center/cover;
 }
 
 .plan__title {
